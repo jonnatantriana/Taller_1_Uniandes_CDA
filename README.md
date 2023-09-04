@@ -11,3 +11,6 @@ Como parte del ejercicio de evaluación de proyectos inmobiliarios para diversif
 **Selección del Dataset de Trabajo**
 
 De esta manera, se ha tomado una base de 26.204 inmuebles en la que se hará un EDA preliminar para establecer posibles relaciones entre los datos que den primeras luces como información relevante para el análisis. Vale la pena resaltar que el mercado inmobiliario de Buenos Aires está caracterizado por un impacto creciente de registro de propiedades (Cerca de 25 mil unidades) y un apetito de los empresarios en Argentina que se no se comporta de manera diferente: Según Mariano Gubitosi (Infobae, 2023) "Los alquileres temporales resultan atractivos dado que los perfiles de rentabilidad del modelo de arrendamientos puede estar cerca del 9% anual"
+
+
+El resto del archivo lo encontrará debidamente descrito en el archivo Script
